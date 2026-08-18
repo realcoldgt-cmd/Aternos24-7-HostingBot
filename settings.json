@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "crownixxsmp.aternos.me",
-    "port": ,
+    "port": 22348,
     "version": "",
     "try-creative": false
   },
